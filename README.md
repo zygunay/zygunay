@@ -18,8 +18,9 @@
    @@%km%%%M     jkkii|||[        ||     - Projects & Certifications ---------------------
    @@jj%%kkkl|!|||||||||"         ||     . Top Projects: ... Vault, TechServe, SpelledLines
    @@ |jm%H@@@b%%kkmk%i|!         ||     . Arch Focus: ..... Service-Oriented Architecture (SOA), Monolithic
-   @@ @p|j%%%%jkk|||j*`;j[        ||     . Certs & Events: . GDG DevFest '25, React 101, Global AI Python
-   @@ ]@@@g|''''     .;j%k        ||     
+   @@ @p|j%%%%jkk|||j*`;j[        ||     . Certs: . GDG DevFest '25, React 101, Global AI Python
+   @@]@@@g|'''     .;j%k@@@@      ||     . Events: 14.-15. M.E.B. Robotics Competition
+   @@ ]@@@g|'@@@@@@@@.;j%k        ||     
    @@ @@@@@mgmp;,,,,:;jj%%k%      ||     - Contact ---------------------------------------
    @@@@@@@@@@%kgki!|jjjj%k%@      ||     . Email: .......... znurgunay@gmail.com
   ^@@'' %@@@HH%b%k{illljkjj%%%%%; ||     . LinkedIn: ....... linkedin.com/in/zeynepnur-gunay
