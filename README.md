@@ -21,6 +21,6 @@
    @@ @p|j%%%%jkk|||j*`;j[        ||     . Certs & Events: . GDG DevFest '25, React 101, Global AI Python
    @@ ]@@@g|''''     .;j%k        ||     
    @@ @@@@@mgmp;,,,,:;jj%%k%      ||     - Contact ---------------------------------------
-   @@@@@@@@@@%kgki!|jjjj%k%@      ||     . Email: .......... zeynurgunay@gmail.com
+   @@@@@@@@@@%kgki!|jjjj%k%@      ||     . Email: .......... znurgunay@gmail.com
   ^@@'' %@@@HH%b%k{illljkjj%%%%%; ||     . LinkedIn: ....... linkedin.com/in/zeynepnur-gunay
  =[@  .%HH%%%%H@gkilljjj%kk". `i  ||     -------------------------------------------------
