@@ -22,5 +22,5 @@
    @@ ]@@@g|''''     .;j%k        ||     
    @@ @@@@@mgmp;,,,,:;jj%%k%      ||     - Contact ---------------------------------------
    @@@@@@@@@@%kgki!|jjjj%k%@      ||     . Email: .......... zeynurgunay@gmail.com
-  ^@@'' %@@@HH%b%k{illljkjj%%%%%; ||     . LinkedIn: ....... [linkedin.com/in/zeynepnur-gunay](https://linkedin.com/in/zeynepnur-gunay)
+  ^@@'' %@@@HH%b%k{illljkjj%%%%%; ||     . LinkedIn: ....... linkedin.com/in/zeynepnur-gunay
  =[@  .%HH%%%%H@gkilljjj%kk". `i  ||     -------------------------------------------------```
