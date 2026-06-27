@@ -24,4 +24,6 @@
    @@ @@@@@mgmp;,,,,:;jj%%k%      ||     - Contact ---------------------------------------
    @@@@@@@@@@%kgki!|jjjj%k%@      ||     . Email: .......... znurgunay@gmail.com
   ^@@'' %@@@HH%b%k{illljkjj%%%%%; ||     . LinkedIn: ....... linkedin.com/in/zeynepnur-gunay
- =[@  .%HH%%%%H@gkilljjj%kk". `i  ||     -------------------------------------------------
+  ^@@'' %@@@HH%b%k{isadjkjj%%%%%; ||     . https://me.zeygunay.tr
+  ^@@'' %@@@H%b%k{isahjkhjj%%%%%; ||     . https://spelledlines.zeygunay.tr
+  ^@@'' %@@@HH%b%k{illljkjj%%%%%; ||     . LinkedIn: ....... linkedin.com/in/zeynepnur-gunay
