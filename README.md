@@ -4,7 +4,7 @@
 
 ### Full Stack Developer · Building reliable products from interface to infrastructure
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-me.zeygunay.tr-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://me.zeygunay.tr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-zeygunay.tr-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zeygunay.tr)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeynepnur_Günay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynepnur-gunay)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:znurgunay@gmail.com)
 
