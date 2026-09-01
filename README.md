@@ -1,11 +1,11 @@
 <div align="center">
 
-# Hi, I'm Zeynep Nur Günay 👋
+# Hi, I'm Zeynepnur Günay 👋
 
 ### Full Stack Developer · Building reliable products from interface to infrastructure
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-me.zeygunay.tr-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://me.zeygunay.tr)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeynep_Nur_Günay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynepnur-gunay)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeynepnur_Günay-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zeynepnur-gunay)
 [![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:znurgunay@gmail.com)
 
 </div>
